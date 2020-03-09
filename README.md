@@ -27,10 +27,10 @@ Put the input to the respective file in the project root
 
 
 ### What i used
-Simple create-react-app,
-NodeJs for reading and creating files, creating a local server for fetching data from it
-Jest for some tests
-Prettier to make code look better
+Simple create-react-app;  
+NodeJs for reading and creating files, creating a local server for fetching data from it;  
+Jest for some tests;  
+Prettier to make code look better;  
 ### Author
 
 Alexey Lapitsky
